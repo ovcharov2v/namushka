@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/namushka/static/css/main.063c239c.css",
-    "main.js": "/namushka/static/js/main.e7340b7b.js",
-    "static/media/exo-2-v19-latin_cyrillic-100.ttf": "/namushka/static/media/exo-2-v19-latin_cyrillic-100.efd0c96d4bb5b08a2cea.ttf",
-    "static/media/exo-2-v19-latin_cyrillic-100.svg": "/namushka/static/media/exo-2-v19-latin_cyrillic-100.660c78ca39ab771d3d4b.svg",
-    "static/media/exo-2-v19-latin_cyrillic-100.woff": "/namushka/static/media/exo-2-v19-latin_cyrillic-100.1715b391b07ed72cd187.woff",
-    "static/media/exo-2-v19-latin_cyrillic-100.eot": "/namushka/static/media/exo-2-v19-latin_cyrillic-100.6a5922c8cd2397a089fd.eot",
-    "static/media/exo-2-v19-latin_cyrillic-100.woff2": "/namushka/static/media/exo-2-v19-latin_cyrillic-100.890b45d590233edbfe2d.woff2",
-    "index.html": "/namushka/index.html",
-    "main.063c239c.css.map": "/namushka/static/css/main.063c239c.css.map",
-    "main.e7340b7b.js.map": "/namushka/static/js/main.e7340b7b.js.map"
+    "main.css": "/static/css/main.8b52a228.css",
+    "main.js": "/static/js/main.7845e574.js",
+    "static/media/exo-2-v19-latin_cyrillic-100.ttf": "/static/media/exo-2-v19-latin_cyrillic-100.efd0c96d4bb5b08a2cea.ttf",
+    "static/media/exo-2-v19-latin_cyrillic-100.svg": "/static/media/exo-2-v19-latin_cyrillic-100.660c78ca39ab771d3d4b.svg",
+    "static/media/exo-2-v19-latin_cyrillic-100.woff": "/static/media/exo-2-v19-latin_cyrillic-100.1715b391b07ed72cd187.woff",
+    "static/media/exo-2-v19-latin_cyrillic-100.eot": "/static/media/exo-2-v19-latin_cyrillic-100.6a5922c8cd2397a089fd.eot",
+    "static/media/exo-2-v19-latin_cyrillic-100.woff2": "/static/media/exo-2-v19-latin_cyrillic-100.890b45d590233edbfe2d.woff2",
+    "index.html": "/index.html",
+    "main.8b52a228.css.map": "/static/css/main.8b52a228.css.map",
+    "main.7845e574.js.map": "/static/js/main.7845e574.js.map"
   },
   "entrypoints": [
-    "static/css/main.063c239c.css",
-    "static/js/main.e7340b7b.js"
+    "static/css/main.8b52a228.css",
+    "static/js/main.7845e574.js"
   ]
 }
