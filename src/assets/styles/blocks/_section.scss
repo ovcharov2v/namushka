@@ -1,0 +1,10 @@
+.section {
+  padding-top: 36px;
+  padding-bottom: 68px;
+
+  &__title { // .section__title
+    margin-bottom: 24px;
+    color: $color-white;
+    text-align: center;
+  }
+}

@@ -1,0 +1,26 @@
+@import "/src/assets/styles/variables";
+
+.product-list {
+  text-align: center;
+
+  &__row { // .product-list__row
+    display: inline-flex;
+    justify-content: center;
+    margin: 0 -20px;
+    flex-wrap: wrap;
+
+    @media (min-width: $breakpoint-2xl) {
+      margin: 0 -40px;
+    }
+  }
+
+  &__col { // .product-list__col
+    margin-bottom: 30px;
+    padding: 0 20px;
+
+    @media (min-width: $breakpoint-2xl) {
+      margin-bottom: 0;
+      padding: 0 40px;
+    }
+  }
+}

@@ -1,0 +1,15 @@
+body {
+  font-family: $font-text;
+  color: $color-black;
+}
+
+.heading {
+  font-family: $font-title;
+  font-size: 36px;
+  line-height: 44px;
+  font-weight: 300;
+}
+
+.text-bold {
+  font-weight: 700;
+}

@@ -1,0 +1,12 @@
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-right: 20px;
+
+  @media (min-width: $breakpoint-2xl) {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}
