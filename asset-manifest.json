@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/namushka/static/css/main.063c239c.css",
+    "main.js": "/namushka/static/js/main.849f571b.js",
+    "static/media/exo-2-v19-latin_cyrillic-100.ttf": "/namushka/static/media/exo-2-v19-latin_cyrillic-100.efd0c96d4bb5b08a2cea.ttf",
+    "static/media/exo-2-v19-latin_cyrillic-100.svg": "/namushka/static/media/exo-2-v19-latin_cyrillic-100.660c78ca39ab771d3d4b.svg",
+    "static/media/exo-2-v19-latin_cyrillic-100.woff": "/namushka/static/media/exo-2-v19-latin_cyrillic-100.1715b391b07ed72cd187.woff",
+    "static/media/exo-2-v19-latin_cyrillic-100.eot": "/namushka/static/media/exo-2-v19-latin_cyrillic-100.6a5922c8cd2397a089fd.eot",
+    "static/media/exo-2-v19-latin_cyrillic-100.woff2": "/namushka/static/media/exo-2-v19-latin_cyrillic-100.890b45d590233edbfe2d.woff2",
+    "index.html": "/namushka/index.html",
+    "main.063c239c.css.map": "/namushka/static/css/main.063c239c.css.map",
+    "main.849f571b.js.map": "/namushka/static/js/main.849f571b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.063c239c.css",
+    "static/js/main.849f571b.js"
+  ]
+}
