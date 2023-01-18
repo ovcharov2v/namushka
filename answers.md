@@ -52,11 +52,11 @@ IE11 всё еще можно запустить под Win10 и посмотр�
 ### Q7
 ##### Какие ресурсы вы используете для развития в профессиональной сфере? Приведите несколько конкретных примеров (сайты, блоги и так далее).
 
-Хабр: https://habr.com/ru/flows/develop/
-Группы VK: https://vk.com/codeblog ...
-Youtube: https://www.youtube.com/@UlbiTV, https://www.youtube.com/@YauhenKavalchuk ...
-StackOverflow
-Иногда смотрю вебинаты от SkillBox, ResultSchool
+Хабр: https://habr.com/ru/flows/develop/ \
+Группы VK: https://vk.com/codeblog ...\
+Youtube: https://www.youtube.com/@UlbiTV, https://www.youtube.com/@YauhenKavalchuk ...\
+StackOverflow\
+Иногда смотрю вебинары от SkillBox, ResultSchool
 
 ##### Какое направление развития вам более близко: JS-программирование, HTML/CSS верстка или что-то ещё?
 
